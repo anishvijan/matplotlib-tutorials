@@ -9,3 +9,6 @@ INDEX
 4. Labels 
 5. Subplot 
 6. Subplot2grid 
+7. Bar Plot 
+8. Scatter Plot 
+9. Histogram Plot 
