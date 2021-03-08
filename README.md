@@ -12,3 +12,8 @@ INDEX
 7. Bar Plot 
 8. Scatter Plot 
 9. Histogram Plot 
+10. Pie 
+11. Title 
+12. Ticks and Legends 
+13. Contour 
+14. Quiver 
