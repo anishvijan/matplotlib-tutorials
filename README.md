@@ -17,3 +17,5 @@ INDEX
 12. Ticks and Legends 
 13. Contour 
 14. Quiver 
+15. Box Plot
+16. Violin Plot
