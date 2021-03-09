@@ -19,3 +19,7 @@ INDEX
 14. Quiver 
 15. Box Plot
 16. Violin Plot
+17. Contour3D 
+18. Wireframe3D 
+19. Surface3D 
+20. Text
